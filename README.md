@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ryan.
 
-Thanks for checking out my profile. My interests are primarily data visualization with a little bit of generative art. I started my journey using Tableau and now ❤️ tinkering around with R. 
+Thanks for checking out my profile. My interests are primarily data visualization with a little bit of generative art. I started my journey using Tableau and now mostly ❤️ tinkering around with R. 
 
 I'm self-taught, and all my work is for fun!
 
